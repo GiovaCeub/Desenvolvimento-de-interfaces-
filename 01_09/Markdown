@@ -1,0 +1,343 @@
+# Etapa 4 — Ideação
+## Guia Prático para a Aula
+
+Nesta etapa, o grupo irá transformar o problema identificado, a persona e a jornada do usuário em possibilidades de solução.
+
+O objetivo não é encontrar imediatamente “a solução perfeita”. O grupo deverá explorar diferentes alternativas, comparar as possibilidades e justificar a escolha da solução que seguirá para a Etapa 5 — Wireframe.
+
+> Entregável 4 do projeto: apresentar 3 ideias de solução e a justificativa da solução escolhida.
+
+---
+
+## Objetivo da Etapa 4
+
+Ao final da atividade, o grupo deverá ser capaz de:
+
+- gerar diferentes possibilidades para resolver o problema;
+- relacionar as ideias às necessidades da persona;
+- considerar as dores identificadas na Jornada do Usuário;
+- comparar as alternativas utilizando critérios;
+- selecionar uma solução;
+- justificar a escolha com base em valor para o usuário e viabilidade.
+
+---
+
+## 1. Retomem o problema
+
+Antes de pensar em soluções, revisem os três entregáveis anteriores:
+
+- Entregável 1 — Problema: qual é a falha, dificuldade ou oportunidade identificada?
+- Entregável 2 — Persona: quem é o usuário para o qual vocês estão projetando?
+- Entregável 3 — Jornada: em qual momento da experiência acontece a principal dificuldade?
+
+Preencham:
+
+| Questão | Resposta do grupo |
+|---|---|
+| Qual problema queremos resolver? | Excesso de poluição visual, acionamentos acidentais e exposição a anúncios enganosos de IA na tela de bloqueio do Glance. |
+| Quem é o usuário? | Matheus Lima (28 anos), profissional de vendas que precisa de rapidez e foco ao consultar o smartphone. |
+| Qual é a principal necessidade desse usuário? | Olhar as horas e responder a notificações sem ser interrompido por conteúdos indesejados. |
+| Qual é a principal dor identificada na jornada? | Deslizar a tela para desbloquear o celular e abrir involuntariamente anúncios e links suspeitos gerados por IA. |
+| Em qual momento essa dor acontece? | No instante da interação gestual com a tela de bloqueio (lockscreen). |
+| O que deveria melhorar na experiência? | Dar controle total ao usuário sobre o feed, eliminar toques acidentais e permitir a desativação simples do recurso. |
+
+### Regra importante
+
+Não comecem pela tecnologia.
+
+Em vez de pensar:
+
+> “Vamos criar um aplicativo.”
+
+Perguntem primeiro:
+
+> “Como poderíamos melhorar essa experiência para o usuário?”
+
+---
+
+## 2. Criem a pergunta de ideação
+
+Transformem o problema em uma pergunta iniciada por:
+
+### Como poderíamos...?
+
+Exemplo 1
+
+Problema identificado: estudantes têm dificuldade para encontrar rapidamente informações sobre horários e salas de aula.
+
+Pergunta para ideação:  
+> Como poderíamos facilitar o acesso dos estudantes às informações de horário e localização das aulas?
+
+Exemplo 2
+
+Problema: usuários de uma clínica abandonam o agendamento porque precisam percorrer muitas telas.
+
+Pergunta:  
+> Como poderíamos tornar o agendamento de consultas mais rápido e simples?
+
+### Nossa pergunta
+
+> Como poderíamos eliminar os acionamentos acidentais na tela de bloqueio e dar ao usuário o controle direto sobre os anúncios e notícias do Glance?
+
+Essa pergunta deverá orientar toda a atividade.
+
+---
+
+## 3. Brainstorming — Gerem muitas possibilidades
+
+Agora o grupo deverá gerar ideias livremente.
+
+Nesta primeira fase, não avaliem as ideias.
+
+O objetivo é quantidade e diversidade.
+
+### Durante o brainstorming:
+
+- não critiquem;
+- registrem todas as ideias;
+- construam sobre as ideias dos colegas;
+- pensem em alternativas simples e ousadas;
+- considerem soluções digitais e não digitais;
+- evitem escolher a primeira ideia apresentada.
+
+### Perguntas para estimular a criatividade
+
+- Como poderíamos tornar essa tarefa mais simples?
+- Como poderíamos eliminar etapas?
+- Como poderíamos diminuir o tempo necessário?
+- Como poderíamos evitar o problema?
+- Como poderíamos informar melhor o usuário?
+- Como poderíamos personalizar a experiência?
+- Como poderíamos tornar a interface mais acessível?
+- O que aconteceria se a tarefa pudesse ser realizada em apenas um passo?
+- Como outros sistemas resolvem problemas semelhantes?
+- E se não existissem limitações técnicas?
+- Como resolveríamos o problema sem utilizar tecnologia?
+
+---
+
+## 4. Técnica rápida — Crazy 8s
+
+Cada integrante pode utilizar uma folha dividida em 8 espaços.
+
+Durante aproximadamente 8 minutos, desenhe ou descreva rapidamente diferentes possibilidades.
+
+Não é necessário criar telas detalhadas.
+
+Podem ser:
+
+- funcionalidades;
+- fluxos;
+- serviços;
+- telas;
+- novos processos;
+- formas de interação;
+- recursos de acessibilidade;
+- automações;
+- notificações;
+- mecanismos de busca;
+- novos caminhos para realizar a tarefa.
+
+Depois, compartilhem as ideias com o grupo.
+
+---
+
+## 5. Organizem as ideias
+
+Após o brainstorming, agrupem as propostas semelhantes.
+
+Vocês podem criar categorias como:
+
+- navegação;
+- comunicação;
+- automação;
+- personalização;
+- acessibilidade;
+- simplificação de processos;
+- busca;
+- notificações;
+- atendimento.
+
+Depois da organização, escolham pelo menos três ideias realmente diferentes entre si.
+
+---
+
+## 6. Desenvolvam as 3 propostas
+
+### Ideia 1
+
+Nome da solução:  
+Trava Gestual Anti-Clique (Anti-Accidental Touch)
+
+Descrição:  
+Redefinição das zonas de sensibilidade ao toque na tela de bloqueio para impedir aberturas involuntárias de matérias e anúncios.
+
+Como funciona?  
+Exige um gesto duplo específico de deslize em uma área restrita para abrir cards, bloqueando toques simples acidentais.
+
+Qual dor da jornada resolve?  
+Elimina os acionamentos acidentais ao tirar o celular do bolso ou ao tentar apenas ver as horas.
+
+Benefício para o usuário:  
+Fim dos redirecionamentos involuntários e indesejados para o navegador.
+
+Principais funcionalidades:  
+Área neutra de toque para o relógio e bloqueio de toques simples sobre cards patrocinados.
+
+Possíveis limitações:  
+Pode aumentar o esforço exigido dos usuários que realmente desejam acessar o conteúdo do Glance.
+
+### Ideia 2
+
+Nome da solução:  
+Painel Rápido de Preferências e Denúncia de IA (Lockscreen Privacy Control)
+
+Descrição:  
+Central de controle acessível diretamente na tela de bloqueio com opções de filtragem e denúncia de anúncios enganosos de IA.
+
+Como funciona?  
+Um ícone discreto no card abre um menu para pausar o feed, denunciar golpes de IA ou desativar o Glance sem sair da tela de bloqueio.
+
+Qual dor da jornada resolve?  
+Resolve a falta de controle sobre anúncios abusivos e a dificuldade de encontrar as configurações ocultas do sistema.
+
+Benefício para o usuário:  
+Autonomia imediata, transparência e segurança contra fraudes digitais em apenas 1 toque.
+
+Principais funcionalidades:  
+Botão "Denunciar Anúncio de IA", "Pausar por 24h" e "Desativar Glance Definitivamente".
+
+Possíveis limitações:  
+Exige alterações e adaptações no modelo comercial de exibição de anúncios da plataforma.
+
+### Ideia 3
+
+Nome da solução:  
+Modo Minimalista Automático por Padrão
+
+Descrição:  
+Reconfiguração do estado nativo do Glance para exibir apenas papéis de parede dinâmicos sem links, notícias ou anúncios.
+
+Como funciona?  
+O Glance funciona puramente como um atualizador de wallpapers, mantendo notícias e anúncios ocultos até o usuário ativá-los manualmente.
+
+Qual dor da jornada resolve?  
+Elimina a poluição visual, o sensacionalismo e a superexposição a conteúdos indesejados.
+
+Benefício para o usuário:  
+Tela de bloqueio limpa, rápida e com economia de bateria e dados móveis.
+
+Principais funcionalidades:  
+Feed apenas visual e botão de ativação opcional de notícias.
+
+Possíveis limitações:  
+Reduz drasticamente a monetização e receita de mídia da plataforma.
+
+---
+
+## 7. Comparem as três ideias
+
+Agora as propostas poderão ser avaliadas.
+
+Utilizem uma escala de 1 a 5:
+
+| Pontuação | Significado |
+|---:|---|
+| 1 | Muito baixo |
+| 2 | Baixo |
+| 3 | Médio |
+| 4 | Alto |
+| 5 | Muito alto |
+
+### Matriz de decisão
+
+| Critério | Ideia 1 | Ideia 2 | Ideia 3 |
+|---|:---:|:---:|:---:|
+| Resolve o problema identificado | 4 | 5 | 4 |
+| Atende às necessidades da persona | 4 | 5 | 3 |
+| Melhora a Jornada do Usuário | 4 | 5 | 4 |
+| Facilidade de uso | 3 | 5 | 5 |
+| Viabilidade de implementação | 5 | 4 | 2 |
+| Potencial de inovação | 3 | 4 | 2 |
+| Valor gerado para o usuário | 4 | 5 | 4 |
+| TOTAL | 27 | 33 | 24 |
+
+> A maior pontuação pode ajudar na decisão, mas não substitui a reflexão do grupo.
+
+---
+
+## 8. Escolham a solução
+
+Depois da comparação, decidam qual alternativa seguirá para a próxima etapa.
+
+### Solução escolhida
+
+Nome: Painel Rápido de Preferências e Denúncia de IA (Lockscreen Privacy Control)
+
+### Justificativa
+
+Respondam:
+
+> Por que essa solução é a alternativa mais adequada para resolver o problema identificado e melhorar a experiência da persona?
+
+A Ideia 2 foi selecionada por atingir a maior pontuação na matriz e resolver diretamente a dor do usuário com equilíbrio entre utilidade e segurança. Em vez de simplesmente banir o recurso (o que inviabilizaria a proposta comercial da ferramenta), a solução concede autonomia e controle direto ao usuário na própria tela de bloqueio. Ela permite barrar anúncios enganosos de IA em um toque, elimina a navegação por menus escondidos no sistema e reestabelece a confiança na interface sem comprometer a usabilidade do smartphone.
+
+---
+
+# Entregável 4 — Documento de Ideação
+
+Ao final da aula, o grupo deverá entregar um documento contendo:
+
+1. Problema — breve descrição do problema trabalhado.
+2. Persona — identificação do público principal.
+3. Pergunta de ideação — a pergunta criada utilizando “Como poderíamos...?”.
+4. Ideia 1 — nome, descrição, funcionamento, benefício e limitações.
+5. Ideia 2 — nome, descrição, funcionamento, benefício e limitações.
+6. Ideia 3 — nome, descrição, funcionamento, benefício e limitações.
+7. Matriz de comparação — avaliação das três alternativas.
+8. Solução escolhida — indicação clara da alternativa selecionada.
+9. Justificativa — explicação da escolha baseada nas necessidades do usuário e na viabilidade da solução.
+
+---
+
+# Checklist do grupo
+
+Antes da entrega, verifiquem:
+
+- [ ] O problema está claramente identificado.
+- [ ] A persona foi considerada durante a ideação.
+- [ ] As dores da Jornada do Usuário foram utilizadas.
+- [ ] Foi criada uma pergunta “Como poderíamos...?”.
+- [ ] Foram geradas várias possibilidades antes da seleção.
+- [ ] Existem pelo menos 3 soluções diferentes.
+- [ ] As três propostas estão descritas.
+- [ ] Os benefícios para o usuário estão claros.
+- [ ] As soluções foram comparadas.
+- [ ] Uma solução foi selecionada.
+- [ ] A escolha foi justificada.
+- [ ] O documento possui os nomes dos integrantes.
+
+---
+
+# Relação com os 7 Entregáveis do Projeto
+
+```text
+1. Problema
+      ↓
+2. Persona
+      ↓
+3. Jornada
+      ↓
+┌──────────────────────────────┐
+│ 4. IDEAÇÃO                   │
+│                              │
+│  3 ideias de solução         │
+│        +                     │
+│  justificativa da escolha    │
+└──────────────────────────────┘
+      ↓
+5. Wireframe
+      ↓
+6. Protótipo
+      ↓
+7. Teste de Usabilidade
