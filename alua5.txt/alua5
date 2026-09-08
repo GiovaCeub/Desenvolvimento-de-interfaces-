@@ -1,0 +1,26 @@
+1. Persona Utilizada
+
+ Nome: Matheus Lima (28 anos).
+ Perfil: Profissional de vendas com rotina ágil, que busca praticidade e foco sem perder tempo com distrações no celular.
+
+2. Tarefa / Objetivo da Persona
+
+Objetivo: Ocultar um anúncio indesejado/suspeito e pausar as atualizações da tela de bloqueio (Glance) para checar o relógio e notificações de forma limpa antes de uma reunião.
+
+3. Etapas da Experiência (Jornada)
+
+Etapa 1 — Ativação da tela: Matheus acende a tela de bloqueio do celular para verificar a hora.
+Etapa 2 — Impacto visual: Ele visualiza uma imagem apelativa com anúncio de IA no lugar do wallpaper, escondendo informações prioritárias.
+Etapa 3 — Tentativa de ação: Ele busca um meio direto de fechar o card ou alterar a preferência sem precisar desbloquear o telefone.
+Etapa 4 — Abertura do Painel Rápido: Toca no ícone discreto de engrenagem/configuração rápida presente no card do Glance.
+Etapa 5 — Conclusão: Seleciona "Ocultar este tipo de conteúdo" e "Denunciar Anúncio de IA", retornando ao modo limpo da lockscreen.
+
+4. Principais Dificuldades
+
+Acionamento Acidental: Facilidade de ser redirecionado para navegadores externos por toques involuntários na tela de bloqueio.
+Falta de Controle Centralizado: Necessidade histórica de navegar por menus ocultos do Android para desativar feeds invasivos.
+Poluição e Riscos: Presença de anúncios enganosos gerados por inteligência artificial que passam a sensação de falta de segurança.
+
+5. Oportunidade de Melhoria UX/UI
+
+Menu Contextual de Bloqueio (Painel Rápido): Inserir um acionável de 1 toque na própria tela de bloqueio que permita pausar o feed, ocultar tópicos indesejados ou reportar anúncios de IA de forma imediata, garantindo autonomia ao usuário sem interromper seu fluxo de uso.
