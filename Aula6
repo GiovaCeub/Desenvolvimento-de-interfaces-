@@ -1,0 +1,82 @@
+Entregável 4 — Documento de Ideação (Aula 06)
+
+
+
+-1. Problema Identificado
+
+O usuário perde tempo e se frustra com anúncios e conteúdos irrelevantes na tela de bloqueio (Glance), precisando navegar por menus complexos do sistema para ocultar ou desativar o feed.
+
+-2. Persona Principal
+
+Nome: Matheus Lima (28 anos)
+Perfil: Profissional de vendas
+Necessidade: Rapidez para checar horas e notificações sem distrações ou redirecionamentos acidentais.
+
+-3. Pergunta de Ideação
+
+> Como poderíamos permitir que o usuário gerencie e limpe o conteúdo da sua tela de bloqueio de forma rápida, em apenas 1 toque, sem precisar desbloquear o aparelho?
+> 
+> 
+
+-4. Ideias Geradas (Arquitetura de Propostas)
+
+
+
+ Ideia 1: Menu Contextual de Bloqueio (Painel Rápido)
+
+Descrição: Botão discreto no card de anúncio da tela de bloqueio.
+Como funciona: Um toque abre opções de pausar feed, ocultar tema ou denunciar anúncio de IA.
+Benefício: Resolução imediata sem desbloquear o celular.
+Limitação: Espaço reduzido na interface da tela de bloqueio.
+
+-Ideia 2: Central de Preferências de Conteúdo no Aplicativo
+
+Descrição: Painel completo de configurações dentro do aplicativo do Glance.
+Como funciona: O usuário navega por categorias para selecionar o que deseja ver.
+Benefício: Controle detalhado de temas e fontes de notícias.
+Limitação: Exige desbloquear o telefone e navegar por várias telas.
+
+-Ideia 3: Algoritmo de Aprendizado por Gesto
+
+Descrição: Ocultação de conteúdo através de gestos de deslizar.
+Como funciona: Deslizar o card para a esquerda oculta o anúncio e ensina o sistema sobre o gosto do usuário.
+Benefício: Interação fluida e sem botões adicionais na tela.
+Limitação: Pode gerar ocultações acidentais ao manusear o celular.
+
+-5. Matriz de Decisão
+
+
+
+| Critérios de Avaliação | Ideia 1 | Ideia 2 | Ideia 3 |
+| --- | --- | --- | --- |
+| Resolve o problema identificado
+
+ | 5 | 3 | 4 |
+| Atende às necessidades da persona
+
+ | 5 | 2 | 4 |
+| Melhora a Jornada do Usuário
+
+ | 5 | 3 | 3 |
+| Facilidade de uso
+
+ | 5 | 3 | 4 |
+| Viabilidade de implementação
+
+ | 4 | 5 | 3 |
+| Potencial de inovação
+
+ | 4 | 2 | 4 |
+| Valor gerado para o usuário
+
+ | 5 | 3 | 4 |
+| Pontuação Total | 33 | 21 | 26 |
+
+-6. Solução Escolhida e Justificativa
+
+
+
+Solução Escolhida: Ideia 1 (Menu Contextual de Bloqueio - Painel Rápido)
+Justificativa: A Ideia 1 foi a vencedora por resolver diretamente a dor da jornada de Matheus com foco na usabilidade e velocidade.
+Ela elimina a necessidade de abrir menus ocultos no sistema e evita toques acidentais. Além de ter alta viabilidade técnica de implementação, entrega o maior valor prático em apenas um toque na tela de bloqueio, 
+servindo como base ideal para os próximos passos da criação do Wireframe.
